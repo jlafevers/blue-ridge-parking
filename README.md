@@ -1,6 +1,6 @@
 # Blue Ridge Parking — Reservation Website
 
-A reservation + payment site for Blue Ridge Parking (brtruckparking.com):
+A reserva tion + payment site for Blue Ridge Parking (brtruckparking.com):
 a landing page, a reservation form with live pricing (Daily/Weekly/Monthly),
 and a Stripe Checkout backend that actually takes payment.
 
