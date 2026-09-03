@@ -1,0 +1,9 @@
+{
+  "name": "blue-ridge-parking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blue Ridge Parking reservation website with Stripe Checkout",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
